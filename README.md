@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**hammadch6/hammadch6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,dart&perline=8" />
+</p>
 
-Here are some ideas to get you started:
+<h3>⚙️ Frameworks & Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,flutter,bootstrap&perline=8" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase&perline=8" />
+</p>
+
+<h3>🛠️ Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&perline=8" />
+</p>
